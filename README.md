@@ -33,7 +33,7 @@ Blitz is an engaging platformer game designed to provide players with an exhilar
   - Blitz offers a range of difficulty levels to accommodate players of varying skill levels.
 
 <!-- FEATURES -->
-## 📝 FEATURES
+## 📝 Features
 
   ### Level Design
   - Blitz boasts meticulously crafted levels with diverse themes and layouts to keep players engaged and entertained, each stage offers a unique visual and gameplay experience.
@@ -52,6 +52,6 @@ Blitz is an engaging platformer game designed to provide players with an exhilar
   - **User Interface (UI) Design**: Unity's UI system enabled the creation of intuitive and visually appealing user interfaces for menus, settings, and in-game displays, enhancing the overall player experience.
 
 <!-- DEMO -->
-## 🚀 Try the Game
+## 🎮 Try the Game
 [drive.google.com/drive/folders/blitz](https://drive.google.com/drive/folders/194n7eCEBFPlbwh6OGQ4TWNFtMaT4zS1Q?usp=sharing)
 
