@@ -53,5 +53,5 @@ Blitz is an engaging platformer game designed to provide players with an exhilar
 
 <!-- DEMO -->
 ## 🎮 Try the Game
-[drive.google.com/drive/folders/blitz](https://drive.google.com/drive/folders/194n7eCEBFPlbwh6OGQ4TWNFtMaT4zS1Q?usp=sharing)
+[itch.io/blitz](https://jmswani.itch.io/blitz)
 
