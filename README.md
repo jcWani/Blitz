@@ -6,7 +6,7 @@
 
 ## About The Project
 
-![Screenshot](https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Blitz/Game%20Development%20Project%2014_03_2024%2010_21_32%20pm.png)
+![Screenshot](https://ziydlavsgtvotxmrnjpu.supabase.co/storage/v1/object/public/room-images//Game%20Development%20Project%2014_03_2024%2010_21_32%20pm.png)
 
 <p align="center">
 Blitz is an engaging platformer game designed to provide players with an exhilarating adventure through a 2D world filled with challenges, obstacles, and treasures. As the protagonist, your objective is to navigate through various stages, collect coins, and reach the flag at the end of each level. With its range of difficulties and diverse levels, Blitz offers an immersive gaming experience for players of all skill levels.
